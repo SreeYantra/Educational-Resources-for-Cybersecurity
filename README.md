@@ -2,10 +2,6 @@
 
 This is a curated list of educational resources designed for teaching cybersecurity, with a focus on Capture the Flag (CTF) games used for learning. The resources are categorized and listed alphabetically within each section.
 
-Capture the Flag (CTF) Competitions
-CTFd – An open-source platform for hosting CTF competitions.
-CTFtime – A website that tracks upcoming and past CTF events.
-CTF Field Guide – A comprehensive guidebook to help prepare for CTF challenges.
 Online Training Grounds and Practice Challenges
 Avatao – Platform offering cybersecurity challenges to hone various skills.
 Crackmes.One – A site for reverse engineering challenges.
@@ -19,6 +15,12 @@ Hacker Test – A platform for practicing web development security challenges, i
 Root Me – A hub of challenges for testing hacking skills.
 Secure Code Warrior – Offers learning materials and practical challenges focused on secure coding practices.
 Wargames – A series of games to practice hacking and security skills.
+
+Capture the Flag (CTF) Competitions
+CTFd – An open-source platform for hosting CTF competitions.
+CTFtime – A website that tracks upcoming and past CTF events.
+CTF Field Guide – A comprehensive guidebook to help prepare for CTF challenges.
+
 Online Courses and Learning Materials
 Cybrary – A platform with free online cybersecurity courses.
 Cybersecurity Guide – A comprehensive collection of cybersecurity guides and resources.
@@ -33,6 +35,7 @@ PortSwigger – Offers free web security training, including hands-on labs on ba
 SANS – A professional platform for paid information security training.
 SANS Cyber Aces – Free video tutorials with quizzes and handouts.
 Teaching Security – A repository of ready-to-use teaching materials for cybersecurity classrooms.
+
 Other Noteworthy Resources
 Awesome Security List – A large, curated list of security-related resources.
 Penetration Testing Practice Lab – A roadmap of vulnerable applications and systems for practice.
